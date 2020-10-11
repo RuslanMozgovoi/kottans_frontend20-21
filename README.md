@@ -11,6 +11,5 @@ Particularly useful is the versioning of the project code: you can always see wh
 * Surprised: How caching proxies work
 * To Use: Linux commands, Headers of HTTP request/response messages
 
-Links:
-Linux Survival
-![Linux Survival](/task_1/Linux_Survival.png)
+Links to completed subtasks:
+[Linux Survival](/task_1/Linux_Survival.png)
