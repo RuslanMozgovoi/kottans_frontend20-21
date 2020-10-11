@@ -11,5 +11,5 @@ Particularly useful is the versioning of the project code: you can always see wh
 * Surprised: How caching proxies work
 * To Use: Linux commands, Headers of HTTP request/response messages
 
-Links to completed subtasks:
+Links to completed subtasks:<br/>
 1.1. [Linux Survival](/task_1/Linux_Survival.png?raw=true)
