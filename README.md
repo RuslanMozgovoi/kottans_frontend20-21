@@ -7,9 +7,18 @@ Particularly useful is the versioning of the project code: you can always see wh
 
 ## Linux CLI, and HTTP
 
-* New: Linux commands, Clarifiaction of HTTP
-* Surprised: How caching proxies work
-* To Use: Linux commands, Headers of HTTP request/response messages
+- New: Linux commands, Clarifiaction of HTTP.
+- Surprised: How caching proxies work.
+- To Use: Linux commands, Headers of HTTP request/response messages.
 
 Links:<br/>
 1.1. [Linux Survival](/task_1/Linux_Survival.png?raw=true)
+
+## Git Collaboration
+
+- New: Information about CONTRIBUTING.md file and rules to contribite to the project discribed in it; also get a better understanding of pull request.
+- Surprised: Github Issues in general and that every issue can have labels, comments and an assignee.
+- To Use: Pull requests and rebase command.
+
+Links:<br/>
+2.1. [GitHub & Collaboration](/task_2/GitHub_&_Collaborationl.png?raw=true)
