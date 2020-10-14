@@ -12,7 +12,7 @@ Particularly useful is the versioning of the project code: you can always see wh
 - To Use: Linux commands, Headers of HTTP request/response messages.
 
 Links:<br/>
-1.1. [Linux Survival](/task_1/Linux_Survival.png?raw=true)
+1.1. [Linux Survival](/task_linux_cli/Linux_Survival.png?raw=true)
 
 ## Git Collaboration
 
@@ -21,4 +21,4 @@ Links:<br/>
 - To Use: Pull requests and rebase command.
 
 Links:<br/>
-2.1. [GitHub & Collaboration](/task_2/GitHub_&_Collaborationl.png?raw=true)
+2.1. [GitHub & Collaboration](/task_git_collaboration/GitHub_&_Collaboration.png?raw=true)
