@@ -22,3 +22,16 @@ Links:<br/>
 
 Links:<br/>
 2.1. [GitHub & Collaboration](/task_git_collaboration/GitHub_&_Collaboration.png?raw=true)
+
+## Intro to HTML and CSS
+
+I knew HTML and CSS on basic level, but these 3 courses were great for repeating. Also there was a lot of new useful information.
+
+- New: 'scope' attribute for \<th\> tags; 'datalist' input type; '!important' property in CSS to override any other styles; 'content-box' and 'border-box' Box Models; transitions.
+- Surprised: Vertical margin collapse.
+- To Use: Grid, transitions, border-box model.
+
+Links:<br/>
+3.1. [Intro to HTML & CSS](/task_html_css_intro/Intro_to_HTML_&_CSS.png?raw=true)
+3.2. [Learn HTML](/task_html_css_intro/Learn_HTML.png?raw=true)
+3.3. [Learn CSS](/task_html_css_intro/Learn_CSS.png?raw=true)
