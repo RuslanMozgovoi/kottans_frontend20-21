@@ -35,3 +35,12 @@ Links:<br/>
 3.1. [Intro to HTML & CSS](/task_html_css_intro/Intro_to_HTML_&_CSS.png?raw=true)<br/>
 3.2. [Learn HTML](/task_html_css_intro/Learn_HTML.png?raw=true)<br/>
 3.3. [Learn CSS](/task_html_css_intro/Learn_CSS.png?raw=true)
+
+## Responsive Web Design
+
+- New: Media queries, usage of flex boxes to easily change website's layout depending on viewport width.
+- Surprised: Hardware Pixels and Device Independent Pixels are not always equal to each other.
+- To Use: Media queries; recommended minimum buttons size and min-max text line width, Starting Small approach in responsive web design.
+
+  4.1. [Responsive Web Design Fundamentals](/task_responsive_web_design/Responsive_Web_Design_Fundamentals.png?raw=true)<br/>
+  4.2. [Flexbox Froggy](/task_responsive_web_design/Flexbox_Froggy.png?raw=true)
