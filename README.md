@@ -32,6 +32,6 @@ I knew HTML and CSS on basic level, but these 3 courses were great for repeating
 - To Use: Grid, transitions, border-box model.
 
 Links:<br/>
-3.1. [Intro to HTML & CSS](/task_html_css_intro/Intro_to_HTML_&_CSS.png?raw=true)
-3.2. [Learn HTML](/task_html_css_intro/Learn_HTML.png?raw=true)
+3.1. [Intro to HTML & CSS](/task_html_css_intro/Intro_to_HTML_&_CSS.png?raw=true)<br/>
+3.2. [Learn HTML](/task_html_css_intro/Learn_HTML.png?raw=true)<br/>
 3.3. [Learn CSS](/task_html_css_intro/Learn_CSS.png?raw=true)
