@@ -42,5 +42,6 @@ Links:<br/>
 - Surprised: Hardware Pixels and Device Independent Pixels are not always equal to each other.
 - To Use: Media queries; recommended minimum buttons size and min-max text line width, Starting Small approach in responsive web design.
 
-  4.1. [Responsive Web Design Fundamentals](/task_responsive_web_design/Responsive_Web_Design_Fundamentals.png?raw=true)<br/>
-  4.2. [Flexbox Froggy](/task_responsive_web_design/Flexbox_Froggy.png?raw=true)
+Links:<br/>
+4.1. [Responsive Web Design Fundamentals](/task_responsive_web_design/Responsive_Web_Design_Fundamentals.png?raw=true)<br/>
+4.2. [Flexbox Froggy](/task_responsive_web_design/Flexbox_Froggy.png?raw=true)
