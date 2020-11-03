@@ -48,18 +48,18 @@ Links:<br/>
 
 ## HTML & CSS practice: Hooli-style Popup
 
-During this task I've had a good practice with knowledge from previous tasks and definitly learned a lot of new stuff: checkbox tricks, basics of BEM, usage of sibling and child selectors, usage of before and after pseudo elements.
-And what is the most important I've had the first experience when someone reviews my code and then I make edits in the code trying to get it better:)
+During this task I've had a good practice with knowledge from previous tasks and definitly learned a lot of new stuff: checkbox tricks, basics of BEM, usage of sibling and child selectors, usage of before and after pseudo elements.<br/>
+And what is the most important I've had the first experience when someone reviews my code and then I make edits in the code trying to get it better:)<br/><br/>
 I want to thank the mentors for the time they spent on reviewing my code and code of other students!
 
-Links:
-5.1 [Demo] (https://github.com/m-ruslan/Kottans-HTML-CSS-practice-Hooli-style-Popup)
+Links:<br/>
+5.1. [Demo](https://m-ruslan.github.io/Kottans-HTML-CSS-practice-Hooli-style-Popup/)
 
 ## JS Basics
 
-I knew JS on basic level and passed these courses before, but it was great to pass them once again for repeating and deeper understanding of things you already know.
+I knew JS on basic level and passed these courses before, but it was great to pass them once again for repeating and deeper understanding of things you already know.<br/>
 Also Algorithm tasks are great to improve your knowledge and understanding even if some of them you've done before then you try to find better decision for this task. And solutions from 'Get a Hint' (I looked at it after finishing every algorithm task) show that sometimes the same task can be done much more clever, shorter and prettier:)
 
 Links:<br/>
-6.1. [Intro to JS](/task_js_basics/FreeCodeCamp_exercises.png?raw=true)<br/>
+6.1. [Intro to JS](/task_js_basics/Intro_to_JS.png?raw=true)<br/>
 6.2. [FreeCodeCamp exercises](/task_js_basics/FreeCodeCamp_exercises.png?raw=true)
