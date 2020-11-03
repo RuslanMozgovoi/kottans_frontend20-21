@@ -61,5 +61,5 @@ I knew JS on basic level and passed these courses before, but it was great to pa
 Also Algorithm tasks are great to improve your knowledge and understanding even if some of them you've done before then you try to find better decision for this task. And solutions from 'Get a Hint' (I looked at it after finishing every algorithm task) show that sometimes the same task can be done much more clever, shorter and prettier:)
 
 Links:<br/>
-6.1. [Intro to JS](/task_js_basics/Intro_to_JS.png?raw=true)<br/>
+6.1. [Intro to JS](/task_js_basics/Intro_to_JS.jpg?raw=true)<br/>
 6.2. [FreeCodeCamp exercises](/task_js_basics/FreeCodeCamp_exercises.png?raw=true)
