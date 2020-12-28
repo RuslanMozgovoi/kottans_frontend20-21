@@ -40,7 +40,7 @@ Links:<br/>
 
 - New: Media queries, usage of flex boxes to easily change website's layout depending on viewport width.
 - Surprised: Hardware Pixels and Device Independent Pixels are not always equal to each other.
-- To Use: Media queries; recommended minimum buttons size and min-max text line width, Starting Small approach in responsive web design.
+- To Use: Media queries, recommended minimum buttons size and min-max text line width, Starting Small approach in responsive web design.
 
 Links:<br/>
 4.1. [Responsive Web Design Fundamentals](/task_responsive_web_design/Responsive_Web_Design_Fundamentals.png?raw=true)<br/>
@@ -63,3 +63,37 @@ Also Algorithm tasks are great to improve your knowledge and understanding even 
 Links:<br/>
 6.1. [Intro to JS](/task_js_basics/Intro_to_JS.jpg?raw=true)<br/>
 6.2. [FreeCodeCamp exercises](/task_js_basics/FreeCodeCamp_exercises.png?raw=true)
+
+## DOM
+
+- New: Almost all information from Udacity's DOM course was new to me.
+- Surprised: How many events the browsers track.
+- To Use: All methods which can edit the DOM and `.addEventListener()` method.
+
+Links:<br/>
+7.1. [JavaScript and the DOM](/task_js_dom/JavaScript_and_the_DOM.jpg?raw=true)<br/>
+7.2. [FreeCodeCamp Algorithm Scripting Challenges](/task_js_dom/FreeCodeCamp_exercises.jpg?raw=true)<br/>
+7.3. [Demo of Practical task](https://m-ruslan.github.io/DOM_Practice/)
+
+## A Tiny JS World
+
+It was a good practice before we start to go deep in OOP. And even though this task was not so hard at a first glance, still there were a lot to improve in my code.
+
+Links:<br/>
+8.1. [Demo](https://m-ruslan.github.io/a-tiny-JS-world/)
+
+## Object Oriented JS
+
+Add description
+
+Links:<br/>
+9.1. [Object Oriented JS](/task_js_oop/Object_Oriented_JS.jpg?raw=true)<br/>
+9.2. [Codewars](/task_js_oop/Codewars.jpg?raw=true)<br/>
+9.3. [Demo of Practical task](https://m-ruslan.github.io/jsoop-practice/)
+
+## OOP exercise
+
+Add description
+
+Links:<br/>
+10.1. [Demo](https://m-ruslan.github.io/a-tiny-JS-world/)
