@@ -71,8 +71,8 @@ Links:<br/>
 - To Use: All methods which can edit the DOM and `.addEventListener()` method.
 
 Links:<br/>
-7.1. [JavaScript and the DOM](/task_js_dom/JavaScript_and_the_DOM.jpg?raw=true)<br/>
-7.2. [FreeCodeCamp Algorithm Scripting Challenges](/task_js_dom/FreeCodeCamp_exercises.jpg?raw=true)<br/>
+7.1. [JavaScript and the DOM](/task_js_dom/JavaScript_and_the_DOM.png?raw=true)<br/>
+7.2. [FreeCodeCamp Algorithm Scripting Challenges](/task_js_dom/FreeCodeCamp_exercises.png?raw=true)<br/>
 7.3. [Demo of Practical task](https://m-ruslan.github.io/DOM_Practice/)
 
 ## A Tiny JS World
@@ -87,8 +87,8 @@ Links:<br/>
 Add description
 
 Links:<br/>
-9.1. [Object Oriented JS](/task_js_oop/Object_Oriented_JS.jpg?raw=true)<br/>
-9.2. [Codewars](/task_js_oop/Codewars.jpg?raw=true)<br/>
+9.1. [Object Oriented JS](/task_js_oop/Object_Oriented_JS.png?raw=true)<br/>
+9.2. [Codewars](/task_js_oop/Codewars.png?raw=true)<br/>
 9.3. [Demo of Practical task](https://m-ruslan.github.io/jsoop-practice/)
 
 ## OOP exercise
