@@ -84,7 +84,9 @@ Links:<br/>
 
 ## Object Oriented JS
 
-Add description
+- New: Almost all information from Udacity's course was new to me.
+- Surprised: Main functionality of objects and arrays is based on prototype chain.
+- To Use: OOP, Classes and subclasses.
 
 Links:<br/>
 9.1. [Object Oriented JS](/task_js_oop/Object_Oriented_JS.png?raw=true)<br/>
@@ -93,7 +95,9 @@ Links:<br/>
 
 ## OOP exercise
 
-Add description
+- New: ES6 classes, composition in classes, software principles (DRY, KISS, YAGNI).
+- Surprised: Composition in classes.
+- To Use: All that was mentioned in "New" line.
 
 Links:<br/>
 10.1. [Demo](https://m-ruslan.github.io/a-tiny-JS-world/)
